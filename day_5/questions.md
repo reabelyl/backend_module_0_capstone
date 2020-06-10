@@ -8,7 +8,7 @@ Hash is a collection of key-value pairs.*
 
 2. **In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.**
 
-''' ruby
+``` ruby
 pet_store = {"Dog Food" => 50, "Cat Food" => 10, "Fish Food" => 33, "Bird Food" => 55, "Gerbil Food" => 35, "Water Bowls" => 10, "Dog Bags" => 250,}
 ```
 3. **Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?**
