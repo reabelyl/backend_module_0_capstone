@@ -14,9 +14,7 @@
 
 4. **In the space below, create a Dog class with at least 2 attributes and 2 behaviors:**
 
-# In the dog class below, write a `play` method that makes
-# the dog hungry. Call that method below the class, and
-# print the dog's hunger status.
+ *In the dog class below, write a `play` method that makes the dog hungry. Call that method below the class, and print the dog's hunger status.*
 
 ``` ruby
 class Dog
@@ -60,8 +58,7 @@ p fido.plays
 
 ``` ruby
 
-Playlist
-
+# Playlist
 number_of_songs (integer)
 genre (array)
 time_of_playlist (float)
@@ -69,8 +66,7 @@ is_good (boolean)
 cover_art (boolean)
 
 
-Methods
-
+# Methods
 delete_song (number_of_songs - 1)
 genre_is (genre)
 add_song (number_of_songs + 1)
@@ -79,8 +75,7 @@ cover_art_available (cover_art = true)
 
 ## Instance #1
 
-Danny Jams
-
+# Danny Jams
 number_of_songs (535)
 genre ["rock","rap","blue grass"]
 time_of_playlist (26.34)
@@ -88,15 +83,12 @@ is_good (true)
 cover_art (true)
 
 
-Methods
-
+# Methods
 delete_song (535 - 1)
 genre_is ["rock"]
 add_song (535 + 1)
 is_playlist_good (is_good = true)
 cover_art_available (cover_art = true)
-
-
 ```
 
 6. **What questions do you still have about classes in Ruby?**
