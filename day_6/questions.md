@@ -10,7 +10,7 @@
 
 3. **What is behavior of a Class?**
 
-
+*A class is a template for an action for multiple instances*
 
 4. **In the space below, create a Dog class with at least 2 attributes and 2 behaviors:**
 
